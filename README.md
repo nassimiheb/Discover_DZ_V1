@@ -1,16 +1,32 @@
-# discovery_dz
+<img src="assets/logo_rose.png"  align="right" height="40" />
 
-A new Flutter project.
+# Discover DZ
+> A Flutter project,
+> is a mobile application allowing the user to discover the touristic places in Algeria, this application accompany you during all your travels.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+- Not Yet
 
-A few resources to get you started if this is your first Flutter project:
+## Testing
+Clone the source locally.
+On a working flutter environment:
+  
+```sh
+$ flutter packages get
+```
+then :
+  
+```sh
+$ flutter run 
+```
+(may take time in first run)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Authors
+- Iheb Nassim Aouadj
+- Ala Eddine Nasri
+- Moured Mostefa
+
+
+
