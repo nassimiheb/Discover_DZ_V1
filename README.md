@@ -1,8 +1,7 @@
 <img src="assets/logo_rose.png"  align="right" height="40" />
 
 # Discover DZ
-> A Flutter project,
-> is a mobile application allowing the user to discover the touristic places in Algeria, this application accompany you during all your travels.
+> is a mobile application (with flutter) allowing the user to discover the touristic places in Algeria, this application accompany you during all your travels.
 
 ## Installation
 
